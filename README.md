@@ -1,3 +1,9 @@
+# Employee Data Cleaning & Reporting Automation
+
+## 📊 Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 # Workflow
 
 ##  Business Problem
