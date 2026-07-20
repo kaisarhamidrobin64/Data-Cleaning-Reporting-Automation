@@ -71,3 +71,12 @@ The dashboard makes it easy to identify workforce distribution across department
 ##  Business Impact
 
 This project demonstrates how automated data cleaning and interactive reporting can improve data quality, reduce manual work, and support faster, more informed business decisions. It also highlights the importance of building reusable Power Query workflows for efficient reporting.
+
+##  Author
+
+**Kaisar Hamid Robin**
+
+- Economics Student, University of Barishal
+- Aspiring Data Analyst
+
+⭐ If you found this project helpful, feel free to star the repository.
